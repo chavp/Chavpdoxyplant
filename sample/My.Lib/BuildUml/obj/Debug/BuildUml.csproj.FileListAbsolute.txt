@@ -8,3 +8,13 @@ D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\My.Lib.pdb
 D:\MyCopy\doxygen\My.Lib\BuildUml\obj\Debug\BuildUml.csprojResolveAssemblyReference.cache
 D:\MyCopy\doxygen\My.Lib\BuildUml\obj\Debug\BuildUml.dll
 D:\MyCopy\doxygen\My.Lib\BuildUml\obj\Debug\BuildUml.pdb
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\bin\Debug\BuildUml.dll
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\bin\Debug\BuildUml.pdb
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\bin\Debug\My.Lib.dll
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\bin\Debug\NPlant.Console.exe
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\bin\Debug\NPlant.dll
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\bin\Debug\NPlant.Samples.dll
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\bin\Debug\My.Lib.pdb
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\obj\Debug\BuildUml.csprojResolveAssemblyReference.cache
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\obj\Debug\BuildUml.dll
+D:\GithubRepositories\Chavpdoxyplant\sample\My.Lib\BuildUml\obj\Debug\BuildUml.pdb
