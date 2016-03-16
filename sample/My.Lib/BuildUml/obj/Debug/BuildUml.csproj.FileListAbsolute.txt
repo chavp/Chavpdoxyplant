@@ -1,0 +1,10 @@
+D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\BuildUml.dll
+D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\My.Lib.dll
+D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\BuildUml.pdb
+D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\NPlant.Console.exe
+D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\NPlant.dll
+D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\NPlant.Samples.dll
+D:\MyCopy\doxygen\My.Lib\BuildUml\bin\Debug\My.Lib.pdb
+D:\MyCopy\doxygen\My.Lib\BuildUml\obj\Debug\BuildUml.csprojResolveAssemblyReference.cache
+D:\MyCopy\doxygen\My.Lib\BuildUml\obj\Debug\BuildUml.dll
+D:\MyCopy\doxygen\My.Lib\BuildUml\obj\Debug\BuildUml.pdb

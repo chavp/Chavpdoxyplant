@@ -1,0 +1,26 @@
+@startuml
+    class "A" {
+    +String F1
+    }
+
+
+    class "C" {
+    }
+
+
+    class "D" {
+    }
+
+
+    class "B" {
+    +String F1
+    }
+
+
+
+
+"A" *-- "B" : Has A \nB
+"D" *-- "B" : Has A \nB
+"D" *-- "C" : Has A \nC
+"B" -up-|> "C" : Extends
+@enduml
